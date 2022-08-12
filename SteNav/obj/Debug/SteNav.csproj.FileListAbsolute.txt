@@ -1,0 +1,12 @@
+C:\Users\steven\source\repos\SteNav\SteNav\bin\Debug\SteNav.exe.config
+C:\Users\steven\source\repos\SteNav\SteNav\bin\Debug\SteNav.exe
+C:\Users\steven\source\repos\SteNav\SteNav\bin\Debug\SteNav.pdb
+C:\Users\steven\source\repos\SteNav\SteNav\bin\Debug\Guna.UI2.dll
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.Form1.resources
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.Properties.Resources.resources
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.csproj.GenerateResource.cache
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.csproj.CopyComplete
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.exe
+C:\Users\steven\source\repos\SteNav\SteNav\obj\Debug\SteNav.pdb
